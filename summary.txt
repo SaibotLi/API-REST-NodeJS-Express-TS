@@ -1,7 +1,0 @@
-npm init -y
-npm i typescript -D -E (D for Dev tool and E for Exact version)
-npm i express -E 
-add to package.json "tsc" = "tsc" 
-back to terminal 
-npm run tsc -- --init
-npm install @types/express
